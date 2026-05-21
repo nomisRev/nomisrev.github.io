@@ -12,7 +12,7 @@ This talk aims to provide a set of "opinions" that have worked well for me and t
 
 ### Resources
 
-- [https://github.com/nomisRev/ktor-quickstart] - Ktor Quickstart template
+- [Ktor Quickstart](https://github.com/nomisRev/ktor-quickstart) - Ktor Quickstart template
 - [Ktor Documentation](https://ktor.io/docs/) - The official Ktor documentation.
 - [KotlinConf 2026](https://kotlinconf.com) - The conference website.
 
